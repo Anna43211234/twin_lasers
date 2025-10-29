@@ -8,10 +8,10 @@
 Модели кронштейнов для лазерных указок:
 [Модель в формате OpenScad](https://github.com/ifizmat/laser-holder) в репозитории на GitHub laser-holder.
 
-#Фотографии напечатанной модели
+# Фотографии напечатанной модели
 ![Верхняя сторона детали](images/photo1.jpg)
 
 ![Нижняя сторона детали с рёбрами жёсткости](images/photo2.jpg)
 
-#Фотографии установки  
+# Фотографии установки  
 ![Model in OpenScad plate for twin lasers](images/twin_lasers.jpg)
