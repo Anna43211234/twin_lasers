@@ -15,3 +15,6 @@
 
 # Фотографии установки  
 ![Model in OpenScad plate for twin lasers](images/twin_lasers.jpg)
+
+# Обновленная модель
+![Model in OpenScad plate for twin lasers](images/plate_twin_lasers_finale.png)
